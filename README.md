@@ -1,20 +1,20 @@
-\# Rutas Colombia
+//Rutas Colombia
 
 
 
-\## Objetivo
+//Objetivo
 
 Proyecto de aula de Estructura de Datos en C++ para calcular rutas entre ciudades de Colombia usando grafos.
 
 
 
-\## Integrantes
+//Integrantes
 
 \- Britsy Cardozo
 
 
 
-\## Ciudades seleccionadas
+//Ciudades seleccionadas
 
 \- \[Paris]
 
